@@ -4,7 +4,7 @@ Scrape your own submissions from popular competitive programming site DMOJ and a
 <br>
 
 ## v2 
-Updated with a timeout such that users can log into account of their choice. This version also allows logging into external sites such as Google accounts through the use of a stealth library on puppeteer. 
+Updated with a timeout such that users can log into account of their choice. This version also allows logging into external sites such as Google accounts through the use of a stealth library on Puppeteer. 
 
 <br>
 
