@@ -2,10 +2,12 @@
 Scrape your own submissions from popular competitive programming site DMOJ and automatically insert the source code of correct submissions into a repository.
 
 <br>
+
 ## v2 
 Updated with a timeout such that users can log into account of their choice. This version also allows logging into external sites such as Google accounts through the use of a stealth library on puppeteer. 
 
 <br>
+
 ## v1
 Insert your username and password manually and run the program to see all the submissions become files. <br>
 The brief process is as follows:
